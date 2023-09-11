@@ -36,7 +36,7 @@ main {
   margin: 2rem auto;
   padding: 2rem;
   max-width: 50rem;
-  background-color: #292d2d;
+  background-color: #101114;
   border-radius: 8px;
   color: white;
   box-shadow: 10px 10px 36px 9px rgba(11,10,10,0.41);
@@ -48,7 +48,7 @@ button {
   font: inherit;
   cursor: pointer;
   background-color: #92acac;
-  color: #ffffff;
+  color: black;
   padding: 1rem 1rem;
   text-transform: uppercase;
   font-weight: bold;
