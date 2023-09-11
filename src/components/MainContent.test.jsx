@@ -16,6 +16,7 @@ describe('MainContent', () => {
 
     const button = screen.getByRole('button');
     await userEvent.click(button);
+    // Delete the .not and the test will succeed
     expect(screen.getByTestId('help-area')).not.toBeInTheDocument();
   });
 });
